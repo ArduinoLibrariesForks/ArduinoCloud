@@ -1,0 +1,19 @@
+{
+    "name": "ArduinoCloud",
+    "provides": "ArduinoCloud.h",
+    "description": "Easly connect your Arduino/Genuino board to the Arduino Cloud",
+    "version": "1.0.1",
+    "maintainer": "Arduino <info@arduino.cc>",
+    "category": "Communications",
+    "subcategory": "Networking",
+    "family": "all",
+    "core": "all",
+    "install": {
+        "examples": "/",
+        "keywords.txt": "/",
+        "library.properties": "/",
+        "src": "/"
+    },
+    "license": "LICENSE",
+    "readme": "README.adoc"
+}
